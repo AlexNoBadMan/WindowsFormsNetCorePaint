@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsNetCore
+﻿namespace WindowsFormsNetCorePaint
 {
     partial class Form1
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Text;
 
-namespace WindowsFormsNetCore.Draw
+namespace WindowsFormsNetCorePaint.Draw
 {
     public class Rectangle : IShape
     {

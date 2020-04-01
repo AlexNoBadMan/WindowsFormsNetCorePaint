@@ -7,9 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using WindowsFormsNetCore.Draw;
+using WindowsFormsNetCorePaint.Draw;
 
-namespace WindowsFormsNetCore
+namespace WindowsFormsNetCorePaint
 {
     public partial class Form1 : Form
     {
