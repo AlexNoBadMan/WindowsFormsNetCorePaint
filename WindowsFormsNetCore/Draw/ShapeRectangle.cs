@@ -5,7 +5,7 @@ using System.Text;
 
 namespace WindowsFormsNetCorePaint.Draw
 {
-    public class Rectangle : IShape
+    public class ShapeRectangle : IShape
     {
         void IShape.Draw(Graphics graphics, Point startPoint, Point currentPoint)
         {
